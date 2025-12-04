@@ -1,0 +1,24 @@
+{
+    "task_type": "regression",
+    "n_num_features": 7,
+    "n_cat_features": 0,
+    "train_size": 1398,
+    "val_size": 466,
+    "test_size": 466,
+    "feature_names": [
+        "\u5e73\u5747\u63a2\u6d4b\u8ddd\u79bb",
+        "\u5e73\u5747\u63a2\u6d4b\u7cbe\u5ea6",
+        "\u547d\u4e2d\u7387",
+        "\u6740\u4f24\u7387",
+        "\u5e73\u5747\u8131\u9776\u91cf",
+        "\u6295\u5f39\u6291\u5236\u6bd4",
+        "\u751f\u5b58\u4f18\u52bf\u5206\u6570"
+    ],
+    "target_name": "\u4f5c\u6218\u6548\u80fd",
+    "y_info": {
+        "mean": 0.5526933073997498,
+        "std": 0.05528676509857178,
+        "min": 0.33569198846817017,
+        "max": 0.6984152793884277
+    }
+}
